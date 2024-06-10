@@ -1,5 +1,9 @@
-## I'm Kate, a budding data analyst driven by curiosity about data visualization, statistical analysis, and machine learning. Currently, I'm building and polishing my skills through various projects and continuous learning. I enjoy working with SQL, learning Python, and experimenting with different data visualization tools. I'm excited to dive into new datasets and uncover hidden patterns. Let's connect and explore the world of data together!
+## Ahoy there, I'm Kate!
 
+* 👩‍🎓 I am a data analyst in the making, who is driven by curiosity about data visualization, statistical analysis, and machine learning.
+* 💻 I enjoy working with SQL, learning Python, and experimenting with different data visualization tools.
+* 🤝🏻 I'm looking for an experience in the field of data analysis, full-time or part-time.
+* 🎯 Goal (2024): Learn Python and get better at statistics.
 
 
 ## Follow me on:
